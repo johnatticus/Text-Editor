@@ -86,7 +86,7 @@ This Challenge is graded based on the following criteria:
 
   * Uses IndexedDB to create an object store and includes both GET and PUT methods
 
-  * The application works without an internet connection
+  * The application works without an internet connection 
 
   * Automatically saves content inside the text editor when the DOM window is unfocused
 
