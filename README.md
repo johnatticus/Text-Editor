@@ -29,17 +29,11 @@
 
 ## Installation and Usage
 
-**Dependenchies required(installed):** npm i
+**Dependenchies required(installed):** `npm i`
 
-**Test Commands:** npm start
+**Test Commands:** `npm start`
 
 **Other Info:** This project was deployed to heroku and packaged with webpack.
-
----
-
-## Contributions
-
-N/A
 
 ---
 
@@ -50,5 +44,5 @@ N/A
 
 **GitHub Repo:** [Click Here](https://github.com/johnatticus/Text-Editor)
 
-**GitHub Live Link:** [Click Here](https://johnatticus.github.io/Text-Editor)
+**Heroku Live Link:** [Click Here](https://polar-sands-31539.herokuapp.com/)
 
